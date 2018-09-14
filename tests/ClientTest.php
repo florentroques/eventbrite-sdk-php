@@ -1,6 +1,7 @@
 <?php
+namespace Eventbrite\tests;
 
-require_once('HttpClient.php');
+use Eventbrite\HttpClient;
 
 #PHPUnit_Framework_TestCase is for v4.8
 class ClientTest extends \PHPUnit_Framework_TestCase
