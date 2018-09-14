@@ -1,6 +1,6 @@
 <?php
 
-use Eventbrite;
+namespace Eventbrite;
 
 // Access methods.  This file could be auto-generated.
 
